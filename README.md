@@ -1,4 +1,5 @@
 # Web-Mojiban
+
 Web文字盤　富山県リハ病院こども支援センター　研究企画課
 
 Web文字盤は、言葉の不自由などでコミュニケーションが難しい人を手助けするツールです。
@@ -17,9 +18,10 @@ Now, you can start to use only just now, in following way.
 
 so Web-Mojiban start to work.
 
-
+<img width="100" src="QR_905551.png">
 
 Web文字盤の特徴は
+
 1. すぐ利用できる　やめてもすぐ再開できる　自由にできる
 2. 多くのスマホやタブレットやパソコンで利用できる　すでにあるものも利用できる
    多くの機種から選ぶこともできる　 他のアプリとの共存もできる
@@ -33,13 +35,17 @@ Web文字盤の特徴は
 たくさん説明するよりも、実際に動かしてみるとよくわかるでしょう。
 
 the feacures of Web-Mojiban are below.
-1. you can start to use quickly and easily. and easy to restart after for a while, break time. 
-2. Web-Mojiban work on many kind of smartphone, tablet and pc. and your device still may be useful, if you have. and your friends can help you try with their device.  
-3. free use, without registration nor permition.
-4. you need internet to use Web-Mojiban for first time. but later you need not. and you can use also out of range. 
 
- Web-Mojiban is desined to concern for biginers to try,
- and keep to using in dayly life. 
+1. you can start to use quickly and easily. and easy to restart after for a while, break time. 
+
+2. Web-Mojiban work on many kind of smartphone, tablet and pc. and your device still may be useful, if you have. and your friends can help you try with their device.  
+
+3. free use, without registration nor permition.
+
+4. you need internet to use Web-Mojiban for first time. but later you need not. and you can use also out of range. 
+   
+   Web-Mojiban is desined to concern for biginers to try,
+   and keep to using in dayly life. 
 
 if you are not good at smartphone or tablet, many highschool students will be good help for you. 
 they are expert.
@@ -60,8 +66,6 @@ Web文字盤は、Webサイト（ホームページ）を作る際に利用す�
 この文書をお読みの誰かが、類似の取り組みを実現する際にこのようなやり方が参考になるかもしれないと考えここに公開することにしました。
 どうぞ自由にやってみてください。
 
-
-
 Webアプリ
 ＞マルチプラットフォーム
 　＞多くの情報機器で動作するソフトウエア
@@ -81,11 +85,3 @@ PWA　オフラインWebアプリ
 
 オープンソース
 公開
-
-
-
-
-
-
-
-
