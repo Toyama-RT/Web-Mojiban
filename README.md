@@ -1,6 +1,6 @@
 # Web-Mojiban
 
-<img width="100" src="tadaima.jpg">
+<img width="100" src="assets/tadaima.jpg">
 
 Web文字盤　富山県リハ病院こども支援センター　研究企画課
 
@@ -20,7 +20,7 @@ Now, you can start to use only just now, in following way.
 
 so Web-Mojiban start to work.
 
-<img width="100" src="QR_905551.png">
+<img width="100" src="assets/QR_905551.png">
 
 Web文字盤の特徴は
 
