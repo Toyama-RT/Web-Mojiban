@@ -4,33 +4,37 @@
 
 Web文字盤　富山県リハ病院こども支援センター　研究企画課
 
+<img width="500" src="assets/moji01.png">
+
 Web文字盤は、言葉の不自由などでコミュニケーションが難しい人を手助けするツールです。
 
 Web-Mojiban is a helpful tool for comunication disabled people.
 
 このページをご覧になっているあなたも、今すぐ使い始めることができます。
-方法１　次のリンクを開いてください リンク
-方法２　または右のＱＲコードを利用してください
+方法１　下のリンクを開いてください
+方法２　またはさらに下のＱＲコードを利用してください
 すぐに動き始めます
 
-Now, you can start to use only just now, in following way.
-
-- click next link or
-- use next QRcode with camera on your smartphone.
-
-so Web-Mojiban start to work.
+[Web-Mojiban](https://toyama-rt.github.io/web-mojiban/hcjlc3/hcj.html#text1"WEB-Mojiban")
 
 <img width="100" src="assets/QR_905551.png">
 
-Web文字盤の特徴は
+Now, you can start to use only just now, in following way.
 
-1. すぐ利用できる　やめてもすぐ再開できる　自由にできる
+- click above link or
+- use above  QRcode with camera on your smartphone.
+
+so Web-Mojiban start to work.
+
+Web文字盤には次のような特徴があります。
+
+1. すぐ利用できる　やめてもすぐ再開できる　始めるのもやめるのも自由にできる
 2. 多くのスマホやタブレットやパソコンで利用できる　すでにあるものも利用できる
    多くの機種から選ぶこともできる　 他のアプリとの共存もできる
 3. 無料で利用できる　許可も登録も必要ない
 4. 使い始めにインターネット接続が必要だが、それ以降は特に必要ではない　通信量の節約もでき、圏外でも使用できる。
 
-このように必用とする人が取り組みやすく、また継続しやすいように配慮してあります。
+このように必要とする人が取り組みやすく、また継続しやすいように配慮してあります。
 
 スマホなどに詳しくない人でも、お近くの中学生か高校生の助けがあれば多分できるでしょう。
 
