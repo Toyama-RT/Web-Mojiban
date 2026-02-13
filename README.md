@@ -1,8 +1,6 @@
 # Web-Mojiban
 
-<img width="100" src="assets/tadaima.jpg">
-
-Web文字盤　富山県リハ病院こども支援センター　研究企画課
+### Web文字盤　富山県リハ病院こども支援センター　研究企画課
 
 <img width="500" src="assets/moji01.png">
 
